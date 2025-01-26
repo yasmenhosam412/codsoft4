@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#E4E4E4</color>
+
+    <color name="one">#155E95</color>
+    <color name="two">#6A80B9</color>
+    <color name="three">#F6C794</color>
+    <color name="four">#FFF6B3</color>
+    <color name="five">#F0F0D7</color>
+    <color name="six">#D0DDD0</color>
+    <color name="seven">#AAB99A</color>
+    <color name="eight">#727D73</color>
+    <color name="nine">#98D8EF</color>
+    <color name="ten">#A888B5</color>
+</resources>
